@@ -1,5 +1,5 @@
 const productos = [
-    { id: 1, nombre: "Remera Lisa", precio: 2000, img: "../Imagenes/Remera.jpg", cantidad: 1 },
+    { id: 1, nombre: "Remera Lisa", precio: 2000, imgUrl: "../Imagenes/Remera.jpg", cantidad: 1 },
     { id: 2, nombre: "Musculosa Butterfly", precio: 1500, img: "../Imagenes/Musculosa.jpg", cantidad: 1 },
     { id: 3, nombre: "Top Pink", precio: 2000, img: "../Imagenes/Top.jpg", cantidad: 1 },
     { id: 4, nombre: "Canguro Flower", precio: 4000, img: "../Imagenes/Canguro.jpg", cantidad: 1 },
